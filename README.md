@@ -1,1 +1,1 @@
-# odin-recipes
+This current project is an assignment from the Odin Project.  It is to showcase my knowledge progression in HTML.  This is my first attempt to build a website from scratch using HTML.
