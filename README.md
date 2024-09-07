@@ -1,1 +1,2 @@
-This current project is an assignment from the Odin Project.  It is to showcase my knowledge progression in HTML.  This is my first attempt to build a website from scratch using HTML.  And now I am having difficulty commiting it to GIT.
+<p>Recipes</p>
+<p>This current project is an assignment from the Odin Project.  It is to showcase my knowledge progression in HTML.  This is my first attempt to build a website from scratch using HTML.  And now I am having difficulty commiting it to GIT.  I got it to go through and now I am trying to put the process to memory.</p>
