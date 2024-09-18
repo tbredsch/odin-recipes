@@ -1,0 +1,20 @@
+* {
+    font-family: 'Courier New', Courier;
+}
+
+h1 {
+    font-size: 88px;
+    color: rgb(100, 100, 226);
+    text-align: center;
+    background-color: orange;
+}
+
+.image-container {
+    text-align: center;
+}
+
+.links, h2, h3, h4 {
+    font-size: 28px;
+    color: rgb(100, 100, 226);
+    background-color: orange;
+}
